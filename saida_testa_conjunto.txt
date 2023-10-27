@@ -1,0 +1,111 @@
+---> Teste 1
+OK: conjunto vazio
+---> Teste 2
+Inseriu todos os elementos corretamente em a
+---> Teste 3
+2 4 6 8 10 12 14 16 18 20
+A saida deve ter sido os números pares de 2 a 20, senao esta errado
+Lembrando que a impressao eh sempre em ordem crescente, pelo enunciado
+---> Teste 4
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+A saida deve ter sido todos os números de 1 a 20, senao esta errado
+---> Teste 5
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+uniao: A saida deve ter sido todos os números de 1 a 20, senao esta errado
+---> Teste 6
+2 4 6 8 10 12 14 16 18 20
+intersec: A saida deve ter sido os números pares de 2 a 20, senao esta errado
+---> Teste 7
+conjunto vazio
+A saida deve ter sido o conjunto vazio, senao esta errado
+1 3 5 7 9 11 13 15 17 19
+diferenca: A saida deve ter sido os impares entre 1 e 19, senao esta errado
+---> Teste 8
+OK: conjunto a esta contido no conjunto b
+OK: conjunto b nao esta contido no conjunto a
+---> Teste 9
+OK: conjuntos iguais
+OK: conjuntos diferentes
+---> Teste 10
+OK: retirou 20
+OK: retirou 2
+OK: retirou 10
+4 6 8 12 14 16 18
+Esta impressao deve ter resultado nos números pares de 4 a 18, menos o 10, senao esta errado
+OK: nao retirou 1
+OK: nao retirou 2
+OK: nao retirou 3
+OK: retirou 4
+OK: nao retirou 5
+OK: retirou 6
+OK: nao retirou 7
+OK: retirou 8
+OK: nao retirou 9
+OK: nao retirou 10
+OK: nao retirou 11
+OK: retirou 12
+OK: nao retirou 13
+OK: retirou 14
+OK: nao retirou 15
+OK: retirou 16
+OK: nao retirou 17
+OK: retirou 18
+OK: nao retirou 19
+OK: nao retirou 20
+Removeu todos os elementos? 
+conjunto vazio
+Em caso afirmativo a linha anterior contem conjunto vazio
+---> Teste 11
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+se a copia deu certo foram impressos os numeros de 1 a 20
+---> Teste 12
+conjunto vazio
+deve ter impresso um subconjunto de tamanho 0
+13
+deve ter impresso um subconjunto de tamanho 1
+2 14
+deve ter impresso um subconjunto de tamanho 2
+2 9 18
+deve ter impresso um subconjunto de tamanho 3
+2 5 12 19
+deve ter impresso um subconjunto de tamanho 4
+1 13 16 18 20
+deve ter impresso um subconjunto de tamanho 5
+7 9 12 13 14 15
+deve ter impresso um subconjunto de tamanho 6
+5 6 7 9 15 17 18
+deve ter impresso um subconjunto de tamanho 7
+3 5 9 11 12 14 17 18
+deve ter impresso um subconjunto de tamanho 8
+1 3 4 11 13 14 15 17 20
+deve ter impresso um subconjunto de tamanho 9
+2 3 6 8 9 10 14 16 17 18
+deve ter impresso um subconjunto de tamanho 10
+1 3 5 6 11 12 13 14 15 17 19
+deve ter impresso um subconjunto de tamanho 11
+3 6 7 8 9 11 13 14 15 16 17 18
+deve ter impresso um subconjunto de tamanho 12
+3 5 6 7 8 11 12 14 15 16 17 19 20
+deve ter impresso um subconjunto de tamanho 13
+1 2 3 5 6 7 8 9 10 11 13 17 18 20
+deve ter impresso um subconjunto de tamanho 14
+1 2 3 4 5 6 7 8 11 12 14 15 17 18 20
+deve ter impresso um subconjunto de tamanho 15
+1 3 4 5 6 7 8 9 10 11 12 13 14 16 17 18
+deve ter impresso um subconjunto de tamanho 16
+1 2 3 6 7 8 9 10 11 12 14 15 16 17 18 19 20
+deve ter impresso um subconjunto de tamanho 17
+2 3 4 5 6 8 9 10 11 12 13 14 15 16 17 18 19 20
+deve ter impresso um subconjunto de tamanho 18
+1 2 3 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+deve ter impresso um subconjunto de tamanho 19
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+deve ter impresso um subconjunto de tamanho 20
+---> Teste 14
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+Teste do iterador, tem que ter impresso todos numeros de 1 a 20
+---> Teste 15
+20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 
+Teste do retirar, tem que ter impresso todos numeros de 20 ate 1 que estao no conjunto, em alguma ordem definida por voce
+depois tem que imprimir a mensagem 'conjunto vazio' logo abaixo
+conjunto vazio
