@@ -1,6 +1,3 @@
-# ci1001_prog1_TAD-Conjunto
-Este trabalho 
-
 # Abstract Data Type (Tipo Abstrato de Dado)
 # ADT Set (TAD Conjunto)
 
